@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database
+*.sql
+*.db
+*.sqlite3
+
+# Configs
+config.py
+.env
+secrets.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
